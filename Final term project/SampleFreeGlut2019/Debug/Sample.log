@@ -1,0 +1,63 @@
+﻿  sample.cpp
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(164,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(476,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(481,60): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(488,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(490,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(491,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(494,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(501,51): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(501,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(506,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(508,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(509,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(512,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(519,51): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(519,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(525,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(527,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(529,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(532,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(539,47): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(539,40): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(544,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(546,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(547,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(550,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(557,50): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(557,43): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(563,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(565,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(566,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(569,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(576,50): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(576,43): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(581,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(583,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(584,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(587,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(594,51): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(594,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(600,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(602,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(603,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(606,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(613,51): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(613,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(619,45): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(621,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(623,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(624,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(627,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(634,51): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(634,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(1697,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(1698,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(1699,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(1702,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(1703,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(1704,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(1713,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\sample.cpp(1714,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> D:\D drive contents\Fall 2020\CS550_Graphics\Final Project\SampleFreeGlut2019\.\Debug\Sample.exe
