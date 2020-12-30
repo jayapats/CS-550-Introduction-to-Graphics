@@ -1,0 +1,25 @@
+﻿  sample.cpp
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 5\Sample2019\SampleFreeGlut2019\glslprogram.cpp(271,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 5\Sample2019\SampleFreeGlut2019\glslprogram.cpp(325,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 5\Sample2019\SampleFreeGlut2019\glslprogram.cpp(794,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 5\Sample2019\SampleFreeGlut2019\glslprogram.cpp(809,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 5\Sample2019\SampleFreeGlut2019\sample.cpp(167,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 5\Sample2019\SampleFreeGlut2019\sample.cpp(427,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 5\Sample2019\SampleFreeGlut2019\sample.cpp(427,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 5\Sample2019\SampleFreeGlut2019\sample.cpp(430,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 5\Sample2019\SampleFreeGlut2019\sample.cpp(431,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 5\Sample2019\SampleFreeGlut2019\sample.cpp(431,74): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 5\Sample2019\SampleFreeGlut2019\sample.cpp(438,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 5\Sample2019\SampleFreeGlut2019\sample.cpp(439,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 5\Sample2019\SampleFreeGlut2019\sample.cpp(1554,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 5\Sample2019\SampleFreeGlut2019\sample.cpp(1555,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 5\Sample2019\SampleFreeGlut2019\sample.cpp(1556,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 5\Sample2019\SampleFreeGlut2019\sample.cpp(1559,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 5\Sample2019\SampleFreeGlut2019\sample.cpp(1560,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 5\Sample2019\SampleFreeGlut2019\sample.cpp(1561,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 5\Sample2019\SampleFreeGlut2019\sample.cpp(1572,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 5\Sample2019\SampleFreeGlut2019\sample.cpp(1573,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 5\Sample2019\SampleFreeGlut2019\sample.cpp(1577,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 5\Sample2019\SampleFreeGlut2019\sample.cpp(1578,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> D:\D drive contents\Fall 2020\CS550_Graphics\Project 5\Sample2019\SampleFreeGlut2019\.\Debug\Sample.exe
