@@ -1,0 +1,69 @@
+﻿  sample.cpp
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(163,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(475,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(480,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(485,24): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(485,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(485,46): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(485,46): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(485,55): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(485,55): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(486,25): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(486,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(486,52): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(486,52): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(486,63): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(486,63): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(503,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(507,24): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(507,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(507,52): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(507,52): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(507,62): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(507,62): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(508,24): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(508,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(508,66): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(508,66): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(508,77): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(508,77): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(526,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(530,27): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(530,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(530,63): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(530,50): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(530,50): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(531,27): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(531,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(531,51): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(531,51): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(531,63): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(531,63): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(546,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(550,26): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(550,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(550,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(550,49): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(550,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(551,26): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(551,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(551,50): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(551,50): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(551,62): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(551,62): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(570,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(588,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(603,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(604,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(605,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(606,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(1658,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(1659,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(1660,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(1663,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(1664,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(1665,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(1673,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\sample.cpp(1674,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> D:\D drive contents\Fall 2020\CS550_Graphics\Project 6\Sample2019\SampleFreeGlut2019\.\Debug\Sample.exe
